@@ -1,0 +1,97 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.content{
+	width: 100%;
+	height: 100%;
+}
+.box{
+	width: 1120px;
+	margin: 0 auto;
+}
+.left{
+	width: 750px;
+	float: left;
+}
+.left-title{
+	width: 750px;
+	height: 120px;
+	float: left;
+}
+.left-title span{
+	font-size: 30px;
+	color: #c1343f;
+	line-height: 65px;
+}
+.left-title span.dd{
+	color: #c3345c;
+	font-size: 13px;
+	line-height: 0;
+}
+.left img{
+	float: left;
+	width: 750px;
+	height: 1125px;
+}
+.left p{
+	float: left;
+}
+.left p.d1{
+	height:120px;
+	margin-top: 15px;
+}
+.right{
+	width: 355px;
+	float: right;
+}
+.right-title{
+	width: 355px;
+	height: 155px;
+}
+.right-title span{
+	color: #c1343f;
+	font-size: 25px;
+	margin-top: 10px;
+	float: left;
+}
+.right-title p{
+	float: left;
+	margin-top: 20px;
+	font-size: 16px;
+}
+.right ul{
+	width: 355px;
+	height: 100%;
+	float: left;
+}
+.right ul li{
+	width: 108px;
+	height: 108px;
+	float: left;
+	border-radius: 5px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+.right ul li:first-child{
+	margin-left: 0;
+}
+.right ul li:nth-child(4){
+	margin-left: 0;
+}
+.right ul li:nth-child(7){
+	margin-left: 0;
+}
+.right ul li img{
+	width: 108px;
+	height: 108px;
+	float: left;
+	border-radius: 5px;
+}
+.hhh{
+	height:50px;
+}
+.ooo{
+	height:1005px;
+}

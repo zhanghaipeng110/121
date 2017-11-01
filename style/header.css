@@ -1,0 +1,74 @@
+*{
+	width:100%;
+	height:100%;
+	list-style: none;
+	margin:0 auto;
+}
+.head{
+	width:100%;
+	height:408px;
+}
+.datu{
+	width:100%;
+	height:358px;
+	background-image: url("./datu.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.logo{
+	width: initial;
+	height:50px;
+	background-color: #cf5565;
+}
+.ding{
+	width:1138px;
+	height:100%;
+	margin:0 auto;
+}
+.o{
+	width:163px;
+	line-height: 50px;
+	color:#fff;
+	font-size: 18px;
+	display: inline-block;
+	margin-right: 593px;
+}
+.t{
+	width:52px;
+	line-height: 50px;
+	color:#fff;
+	font-size: 18px;
+	display: inline-block;
+}
+.s{
+	width:85px;
+	line-height: 50px;
+	color:#fff;
+	font-size: 18px;
+	display: inline-block;
+	margin-left: 31px;
+}
+.si{
+	width:41px;
+	line-height: 50px;
+	color:#fff;
+	font-size: 18px;
+	display: inline-block;
+	margin-left: 20px;
+}
+a{
+	color:#fff;
+	font-size: 18px;
+	text-decoration:none;
+}
+.form-control{
+	width: 97px;
+	height:45px;
+	color:#fff;
+	font-size: 18px;
+	background:#cf5565;
+	text-align: center;
+	margin-left: 20px;
+	overflow: hidden;
+}

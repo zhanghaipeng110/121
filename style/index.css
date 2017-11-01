@@ -1,0 +1,96 @@
+*{
+	width:100%;
+	height:100%;
+	margin:0 auto;
+}
+.dingkuan{
+	width:1120px;
+	height:100%;
+	margin:0 auto;
+}
+.font-left{
+	width:749px;
+	height:100%;
+	float: left;
+	display: block;
+}
+.font-right{
+	width:355px;
+	height:100%;
+	float: right;
+	display: block;
+	/*background-color: green;*/
+}
+.art{
+	height:22px;
+	font-size: 22px;
+	color:#c1343f;
+	margin-top: 24px;
+}
+.wai{
+	height:245px;
+}
+.with{
+	height:11px;
+	font-size:11px ;
+	color:#c1343f;
+	margin-top: 18px;
+}
+.oimg{
+	width:160px;
+	height:160px;
+	margin-top: 13px;
+	float: left;
+	display: block;
+}
+.op{
+	float: left;
+	display: block;
+	width:570px;
+	height:160px;
+	font-size: 14px;
+	color:#333374;
+	padding-top: 13px;
+	line-height: 30px;
+	font-weight: bold;
+	padding-left: 19px;
+}
+
+/*右边*/
+.r-op{
+	margin-top: 25px;
+	height:19px;
+	font-size: 19px;
+	color:#c1343f;
+}
+.r-tp{
+	height:60px;
+	font-size:14px;
+	color:#334785;
+	margin-top:20px;
+}
+.timg{
+	width:110px;
+	height:109px;
+	margin-top: 31px;
+}
+.timgt{
+	width:110px;
+	height:109px;
+	margin-top: 31px;
+	margin-left: 7px;
+	margin-right: 7px;
+}
+
+
+.simg{
+	width:110px;
+	height:109px;
+	margin-top: 10px;
+}
+.simgt{
+	width:110px;
+	height:109px;
+	margin-left: 7px;
+	margin-right: 7px;
+}

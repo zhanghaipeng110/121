@@ -1,0 +1,122 @@
+.huang{
+	width:100%;
+	height:300px;
+	background-color: #ffeb8b
+}
+.dingkuan{
+	width:1120px;
+	height:100%;
+	margin: 0 auto;
+}
+.one{
+	width:359px;
+	height:100%;
+	text-align: center;
+	float: left;
+	display: block;
+}
+.ART{
+	height:21px;
+	color:#c1343f;
+	font-size: 21px;
+	margin-top: 43px;
+}
+.WHT{
+	height:11px;
+	color:#c13456;
+	font-size:11px ;
+	margin-top: 18px;
+}
+.img-o{
+	width:160px;
+	height:160px;
+	margin-top: 12px;
+}
+.dingkuan-t{
+	width:1134px;
+	height:100%;
+	margin: 0 auto;
+	/*background-color: red;*/
+}
+.shou-left{
+	width:763px;
+	height:100%;
+	float: left;
+	display: block;
+}
+.whoare{
+	margin-top: 56px;
+	height:27px;
+	color:#c1345c;
+	font-size: 27px;
+}
+.throu{
+	margin-top: 23px;
+	height:256px;
+	color:#333354;
+	font-size: 14px;
+	line-height: 27px;
+}
+.whoa{
+	margin-top: 31px;
+	height:27px;
+	color:#c1345c;
+	font-size: 27px;
+}
+.throut{
+	margin-top: 23px;
+	height:46px;
+	color:#333354;
+	font-size: 14px;
+	line-height: 27px;
+}
+.span{
+	color:#e98153;
+}
+.shou-right{
+	width:371px;
+	height:100%;
+	/*background-color: red;*/
+	float: right;
+}
+.throut-t{
+	margin-left: 20px;
+	margin-top: 23px;
+	height:170px;
+	color:#333354;
+	font-size: 14px;
+	line-height: 27px;
+}
+.throut-f{
+	margin-left: 20px;
+	margin-top: 23px;
+	height:100px;
+	color:#333354;
+	font-size: 14px;
+	line-height: 27px;
+}
+.timg{
+	width:110px;
+	height:109px;
+	margin-top: 31px;
+}
+.timgt{
+	width:110px;
+	height:109px;
+	margin-top: 31px;
+	margin-left: 7px;
+	margin-right: 7px;
+}
+
+
+.simg{
+	width:110px;
+	height:109px;
+	margin-top: 10px;
+}
+.simgt{
+	width:110px;
+	height:109px;
+	margin-left: 7px;
+	margin-right: 7px;
+}
